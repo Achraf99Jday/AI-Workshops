@@ -1,4 +1,4 @@
-# AI-Workshops
+# Workshops
 A collection of some of the workshops i hosted
 
 Recorded:
